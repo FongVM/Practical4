@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical4</string>
+    <string name="choose_toppings">Choose toppings</string>
+    <string name="syrup">Syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="oreo">Oreo</string>
+    <string name="show_toast">Show Toast</string>
+</resources>
